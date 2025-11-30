@@ -1,0 +1,51 @@
+Food,Category,Calories,Protein(g),Carbs(g),Fat(g),Fiber(g),Sugar(g),Vitamin C(mg)
+Apple,Fruit,95,0.5,25,0.3,4.4,19,8.4
+Banana,Fruit,105,1.3,27,0.4,3.1,14,10.3
+Orange,Fruit,62,1.2,15,0.2,3.1,12,70
+Strawberries,Fruit,49,1,12,0.5,3,7,89
+Blueberries,Fruit,84,1.1,21,0.5,3.6,15,14
+Grapes,Fruit,104,1.1,27,0.2,1.4,23,4
+Watermelon,Fruit,84,1.7,21,0.4,0.8,17,12
+Avocado,Fruit,320,4,17,29,13,1.3,20
+Mango,Fruit,135,1.1,35,0.6,3.7,31,60
+Pineapple,Fruit,82,0.9,22,0.2,2.3,16,79
+Broccoli,Vegetable,31,2.6,6,0.3,2.4,1.5,81
+Spinach,Vegetable,7,0.9,1,0.1,0.7,0.1,8
+Carrots,Vegetable,52,1.2,12,0.3,3.6,6,7
+Tomato,Vegetable,22,1.1,5,0.2,1.5,3.2,17
+Bell Pepper,Vegetable,30,1,7,0.2,2.5,5,190
+Sweet Potato,Vegetable,112,2,26,0.1,3.9,5,22
+Potato,Vegetable,161,4.3,37,0.2,4.7,1.7,17
+Kale,Vegetable,33,2.9,6,0.6,2.6,1.6,120
+Cauliflower,Vegetable,25,2,5,0.3,2.5,2.4,48
+Cucumber,Vegetable,16,0.7,3.6,0.1,0.5,1.7,3.2
+Chicken Breast,Protein,165,31,0,3.6,0,0,0
+Salmon,Protein,208,20,0,13,0,0,0
+Eggs (2 large),Protein,144,12.6,0.8,10,0,0.4,0
+Tuna,Protein,116,25,0,1,0,0,0
+Ground Beef,Protein,250,26,0,17,0,0,0
+Tofu,Protein,94,10,2,6,0.3,0,0
+Lentils,Protein,230,18,40,1,16,4,3
+Chickpeas,Protein,269,14.5,45,4,12.5,8,2
+Greek Yogurt,Protein,100,10,6,0.7,0,4,0
+Almonds,Protein,164,6,6,14,3.5,1.2,0
+Brown Rice,Grain,216,5,45,1.8,3.5,0.7,0
+Oats,Grain,166,5.9,28,3.6,4,0.6,0
+Whole Wheat Bread,Grain,77,3,13,1,1.9,1.4,0
+Quinoa,Grain,222,8.1,39,3.6,5.2,1.6,0
+Pasta,Grain,221,8.1,43,1.3,2.5,1.3,0
+Whole Wheat Pasta,Grain,174,7.5,37,0.8,6.3,2,0
+Barley,Grain,193,3.6,44,0.7,6,0.4,0
+Buckwheat,Grain,155,5.7,33,1,4.5,1.5,0
+Corn,Grain,177,5.4,41,2.1,4.6,6.4,6.8
+Whole Wheat Tortilla,Grain,120,4,22,2,3,1,0
+Milk (1 cup),Dairy,122,8,12,5,0,12,0
+Cheddar Cheese,Dairy,113,7,1,9,0,0.3,0
+Cottage Cheese,Dairy,163,28,6,2,0,6,0
+Walnuts,Nuts,185,4.3,4,18,1.9,0.7,0.2
+Peanuts,Nuts,161,7.3,5,14,2.4,1,0
+Chia Seeds,Seeds,138,4.7,12,9,10.6,0,0
+Black Beans,Legumes,227,15.2,41,1,15,1,1
+Olive Oil,Fat,119,0,0,14,0,0,0
+Dark Chocolate,Other,170,2.2,13,12,3.1,7,0
+Honey,Sweetener,64,0.1,17,0,0,17,0.2
